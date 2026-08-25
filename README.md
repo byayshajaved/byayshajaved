@@ -22,10 +22,10 @@
 
 ### 🎯 Focus Areas
 
-- **Python Programming** – building a strong foundation for AI and data-driven applications
-- **Machine Learning** – learning core concepts, algorithms, and workflows
-- **Data Analysis** – working with structured data to extract insights
-- **Databases** – managing and querying data using SQL and MySQL
+- 🐍 **Python Programming** – building a strong foundation for AI and data-driven applications
+- 🤖 **Machine Learning** – learning core concepts, algorithms, and workflows
+- 📊 **Data Analysis** – working with structured data to extract insights
+- 🗄️ **Databases** – managing and querying data using SQL and MySQL
 
 ---
 
