@@ -1,28 +1,30 @@
 <div align="center">
 
-# Hi, I'm Aysha Javed 👋
+# Hey 👋, I'm Aysha
+
+**🎓 AI Student | 🐍 Learning Python | 🤖 Future AI Engineer**
+
+<img src="https://komarev.com/ghpvc/?username=byayshajaved&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/byayshajaved?label=Followers&style=flat" alt="Followers"/>
 
 </div>
 
-<p align="center">
-🎓 AI Student | 🐍 Learning Python | 🤖 Future AI Engineer
-</p>
+---
+
+## 🙋‍♀️ About Me
+
+* 🎓 **Education:** I'm an Artificial Intelligence student with a strong foundation in C++ and SQL.
+* 🌱 **Currently Learning:** Python, Machine Learning, and Data Analysis.
+* 💡 **Motivation:** I enjoy understanding how things work under the hood before building on top of them.
+* 🚀 **Career Objective:** Growing step by step into a skilled AI Engineer, one project at a time.
 
 ---
 
-- 💡 I specialize in building strong fundamentals in **programming, databases, and machine learning**.
-- 🚀 I enjoy turning what I learn into small, practical projects instead of just following tutorials.
-- 🌱 Currently exploring **Python**, **Machine Learning**, and **Data Analysis**.
-- 💬 Ask me about anything related to **C++, SQL, or MySQL**.
+## 🧩 Core Strengths
 
----
-
-## 🎯 Expertise
-
-- **Programming Fundamentals** – solid foundation in C++, currently extending this into Python
-- **Databases** – writing queries and managing data using SQL and MySQL
-- **Machine Learning** *(in progress)* – learning core concepts, algorithms, and workflows
-- **Data Analysis** *(in progress)* – working with structured data to extract insights
+* **Programming Fundamentals** – solid foundation in C++, currently extending this into Python
+* **Databases** – writing queries and managing data using SQL and MySQL
+* **Machine Learning** *(in progress)* – learning core concepts, algorithms, and workflows
 
 ---
 
